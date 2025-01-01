@@ -27,6 +27,8 @@ Time-Series Forecasting for Financial Data | Independent Researcher             
  Optimized model hyperparameters (p, d, q) using Akaike Information Criterion (AIC), selecting ARIMA(2,1,2) with the lowest AIC of 59231.77.
 
  Achieved a Mean Absolute Error (MAE) of 16.44 and Root Mean Squared Error (RMSE) of 40.37 through dynamic refitting (every 5 steps).
+
  Automated data pipelines using Python (Pandas, Statsmodels)Python （Pandas, statmodels） for data preprocessing, forecasting, and visualization.
+
  Explored potential hybrid approaches, combining ARIMA with LSTM.
  Highlighted challenges like outlier sensitivity  and trade-offs between computational cost and model performance, emphasizing scalable solutions for financial applications.
