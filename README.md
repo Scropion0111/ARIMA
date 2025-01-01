@@ -31,4 +31,5 @@ Time-Series Forecasting for Financial Data | Independent Researcher             
  Automated data pipelines using Python (Pandas, Statsmodels)Python （Pandas, statmodels） for data preprocessing, forecasting, and visualization.
 
  Explored potential hybrid approaches, combining ARIMA with LSTM.
+
  Highlighted challenges like outlier sensitivity  and trade-offs between computational cost and model performance, emphasizing scalable solutions for financial applications.
